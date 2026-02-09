@@ -40,7 +40,7 @@ The goal of this project is to:
 <p align="center">
   <img src="assets/screenshots/signup.jpeg" width="220" alt="Signup"/>
   <img src="assets/screenshots/login.jpeg" width="220" alt="Login"/>
-  <img src="assets/screenshots/otp.jpg" width="220" alt="OTP Verification"/>
+  <img src="assets/screenshots/otp.jpeg" width="220" alt="OTP Verification"/>
 </p>
 
 ### 🏠 Home & User
