@@ -204,4 +204,3 @@ Suggestions and improvements are welcome!
 
 This project is built for educational and learning purposes.
 
-```
