@@ -194,9 +194,10 @@ This project demonstrates:
 Suggestions and improvements are welcome!
 
 1. Fork the repo
-2. Create a branch
-3. Make changes
-4. Open a Pull Request
+2. Understanding the concepts
+3. Create a branch
+4. Make changes
+5. Open a Pull Request
 
 ---
 
